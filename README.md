@@ -1,14 +1,25 @@
 # Studia doktorskie
 
+## Spis treści
+* [Ważne zagadnienia](#ważne-zagadnienia)
+* [Rodzaje sieci generatywnych](#rodzaje-sieci-generatywnych)
+* [Zastosowania sieci generatywnych](#zastosowania-sieci-generatywnych)
+* [Materiały do nauki](#materiały-do-nauki)
+    + [Kursy online](#kursy-online)
+    + [Artykuły naukowe](#artykuły-naukowe)
+    + [Roadmapy](#roadmapy)
+    + [Książki](#książki)
++ [Do zrobienia na kolejne spotkanie](#do-zrobienia-na-kolejne-spotkanie)
+
 ## Ważne zagadnienia
 * Czym są modele generatywne?
 * Modele Generatywne vs Modele Dyskryminatywne
 * Latent space
 
 ## Rodzaje sieci generatywnych
-#### Deep Generative Models [DGM]:
-* Generative Adversarial Networks [GAN]
-    * [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
+* Deep Generative Models [DGM]:
+    * Generative Adversarial Networks [GAN]
+      * [A Tour of Generative Adversarial Network Models](https://machinelearningmastery.com/tour-of-generative-adversarial-network-models/)
       * Podstawowe:
         * GAN (Generative Adversarial Network)
         * DCGAN (Deep Convolutional Generative Adversarial Network)
@@ -25,11 +36,12 @@
         * Progressive GAN (Progressive Growing Generative Adversarial Network)
         * StyleGAN (Style-Based Generative Adversarial Network)
         * BigGAN (Big Generative Adversarial Network)
-    * [SRGAN (Super Resolution Generative Adversarial Network)](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec)
-* Variational Autoencoders [VAE]
-* Auto-regressive models
-* GPT-3(?)
-* Wiele innych z wikipedii: [Gaussian mixture model; Hidden Markov model; Probabilistic context-free grammar; Averaged one-dependence estimators; Latent dirchlet allocation; Restricted Bolzman machine; Energy based model](https://en.wikipedia.org/wiki/Generative_model#Generative_models)
+        * [SRGAN (Super Resolution Generative Adversarial Network)](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec)
+    * Variational Autoencoders [VAE]
+    * Auto-regressive models
+* Inne:
+    * GPT-3(?)
+    * Wiele innych z wikipedii: [Gaussian mixture model; Hidden Markov model; Probabilistic context-free grammar; Averaged one-dependence estimators; Latent dirchlet allocation; Restricted Bolzman machine; Energy based model](https://en.wikipedia.org/wiki/Generative_model#Generative_models)
 
 ## Zastosowania sieci generatywnych
 * GAN
@@ -95,3 +107,11 @@
   * Generative Adversarial Networks Projects
   * Generative Adversarial Networks Cookbook
   * Hands-On Generative Adversarial Networks with Keras
+
+## Do zrobienia na kolejne spotkanie
+* Przegląd pod kątem antagonistycznego uczenia maszynowego
+* Rozszerzanie opisów poszczególnych punktów
+* Analiza często cytowanych artykułów
+    * Ian Goodfelow
+    * Andrew Ng
+    * Geof Hinton
